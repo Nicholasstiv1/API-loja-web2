@@ -1,0 +1,11 @@
+{
+  "product_not_found": "Produto não encontrado",
+  "access_denied": "Acesso negado. Apenas admin pode realizar esta ação.",
+  "login_success": "Login realizado com sucesso",
+  "logout_success": "Logout realizado com sucesso",
+  "invalid_language": "Idioma inválido",
+  "language_changed": "Idioma alterado com sucesso",
+  "unexpected_error": "Erro inesperado",
+  "not_authenticated": "Usuário não autenticado"
+
+}
