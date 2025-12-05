@@ -1,0 +1,2 @@
+O código está incompleto e muito bagunçado. No backend, tem o endpoint /me está dentro de purchase, apenas para ilustrar a bagunça que está o repositório. Login e logout está dentro de user. No frontend está ainda pior, com boa parte  do código no diretório /app (que deveria servir apenas para acesso aos endpoints do back e roteamento para outros compoenntes).
+Tem muita coisa errada no repositorio. Por exemplo, ao invés de arquivo Dockerfile, tem .dockerfile.
